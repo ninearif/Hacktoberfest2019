@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git clone -–depth [depth] [remote-url]",
+    "description": "If you only want to pull down just the latest commits, not the entire repository history. you can save thousands of commits by select a particular depth you want to pull."
   }
 ]
